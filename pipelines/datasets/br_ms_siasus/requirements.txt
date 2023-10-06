@@ -1,0 +1,7 @@
+requests
+pandas
+pyarrow
+fastparquet
+dbfread
+pyreaddbc
+loguru
